@@ -1,0 +1,4 @@
+pillow==12.3.0
+playsound==1.2.2
+psycopg2-binary==2.9.12
+python-decouple==3.8
